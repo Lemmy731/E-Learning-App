@@ -1,0 +1,17 @@
+C:\Users\hp\Desktop\E-learning\ELearning.Service\bin\Debug\net6.0\ELearning.Service.deps.json
+C:\Users\hp\Desktop\E-learning\ELearning.Service\bin\Debug\net6.0\ELearning.Service.dll
+C:\Users\hp\Desktop\E-learning\ELearning.Service\bin\Debug\net6.0\ELearning.Service.pdb
+C:\Users\hp\Desktop\E-learning\ELearning.Service\bin\Debug\net6.0\E-Learn.Entity.dll
+C:\Users\hp\Desktop\E-learning\ELearning.Service\bin\Debug\net6.0\E-Learn.Infrastructure.dll
+C:\Users\hp\Desktop\E-learning\ELearning.Service\bin\Debug\net6.0\E-Learn.Infrastructure.pdb
+C:\Users\hp\Desktop\E-learning\ELearning.Service\bin\Debug\net6.0\E-Learn.Entity.pdb
+C:\Users\hp\Desktop\E-learning\ELearning.Service\obj\Debug\net6.0\ELearning.Service.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\E-learning\ELearning.Service\obj\Debug\net6.0\ELearning.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\E-learning\ELearning.Service\obj\Debug\net6.0\ELearning.Service.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\E-learning\ELearning.Service\obj\Debug\net6.0\ELearning.Service.AssemblyInfo.cs
+C:\Users\hp\Desktop\E-learning\ELearning.Service\obj\Debug\net6.0\ELearning.Service.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\E-learning\ELearning.Service\obj\Debug\net6.0\ELearning.Service.csproj.CopyComplete
+C:\Users\hp\Desktop\E-learning\ELearning.Service\obj\Debug\net6.0\ELearning.Service.dll
+C:\Users\hp\Desktop\E-learning\ELearning.Service\obj\Debug\net6.0\refint\ELearning.Service.dll
+C:\Users\hp\Desktop\E-learning\ELearning.Service\obj\Debug\net6.0\ELearning.Service.pdb
+C:\Users\hp\Desktop\E-learning\ELearning.Service\obj\Debug\net6.0\ref\ELearning.Service.dll

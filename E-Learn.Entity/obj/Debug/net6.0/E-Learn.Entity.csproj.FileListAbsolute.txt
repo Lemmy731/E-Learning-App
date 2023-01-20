@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\E-learning\E-Learn.Entity\bin\Debug\net6.0\E-Learn.Entity.deps.json
+C:\Users\hp\Desktop\E-learning\E-Learn.Entity\bin\Debug\net6.0\E-Learn.Entity.dll
+C:\Users\hp\Desktop\E-learning\E-Learn.Entity\bin\Debug\net6.0\E-Learn.Entity.pdb
+C:\Users\hp\Desktop\E-learning\E-Learn.Entity\obj\Debug\net6.0\E-Learn.Entity.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\E-learning\E-Learn.Entity\obj\Debug\net6.0\E-Learn.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\E-learning\E-Learn.Entity\obj\Debug\net6.0\E-Learn.Entity.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\E-learning\E-Learn.Entity\obj\Debug\net6.0\E-Learn.Entity.AssemblyInfo.cs
+C:\Users\hp\Desktop\E-learning\E-Learn.Entity\obj\Debug\net6.0\E-Learn.Entity.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\E-learning\E-Learn.Entity\obj\Debug\net6.0\E-Learn.Entity.dll
+C:\Users\hp\Desktop\E-learning\E-Learn.Entity\obj\Debug\net6.0\refint\E-Learn.Entity.dll
+C:\Users\hp\Desktop\E-learning\E-Learn.Entity\obj\Debug\net6.0\E-Learn.Entity.pdb
+C:\Users\hp\Desktop\E-learning\E-Learn.Entity\obj\Debug\net6.0\ref\E-Learn.Entity.dll
